@@ -1,11 +1,13 @@
 # Dicoding-ReactJS-Fundamental-Submission-2
-## Project: Developing Single Page Application Using React
-- Main Criteria 1: Must Showing Notes List
-- Main Criteria 2: Must able to add Notes
-- Main Criteria 3: Must able to delete Notes
-- Opsional Criteria 1: There is a Note Search Feature
-- Opsional Criteria 2: There is a Character Limit on Note Title Input
-- Opsional Criteria 3: There is a Note Archive Feature
+## Final Project: Build SPA (Single Page Application) + API, Context, dan Hooks
+- Main Criteria 1: Must laveraging RESTful API as resource data
+- Main Criteria 2: Must have Regiter and Authentication Page
+- Main Criteria 3: Must protect notes feature
+- Main Criteria 4: Must change theme feature
+- Main Criteria 5: Must using Hooks
+- Main Criteria 3: Must comply all main criteria previous submission
+- Opsional Criteria 1: Showing loading indicator
+- Opsional Criteria 3: Change language feature
 
 ## Disclaimer ⚠️
 This repository is created for sharing and reference only. Plagiarism is unacceptable and is not my responsibility as the author.
