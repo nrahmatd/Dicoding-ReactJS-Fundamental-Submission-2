@@ -5,9 +5,9 @@
 - Main Criteria 3: Must protect notes feature
 - Main Criteria 4: Must change theme feature
 - Main Criteria 5: Must using Hooks
-- Main Criteria 3: Must comply all main criteria previous submission
+- Main Criteria 6: Must comply all main criteria previous submission
 - Opsional Criteria 1: Showing loading indicator
-- Opsional Criteria 3: Change language feature
+- Opsional Criteria 2: Change language feature
 
 ## Disclaimer ⚠️
 This repository is created for sharing and reference only. Plagiarism is unacceptable and is not my responsibility as the author.
